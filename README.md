@@ -15,7 +15,7 @@ Steam page of the game: </br>
 
 # <b>Installation</b></br>
 
-1) Download the zip file: [https://github.com/Astienth/Cloudpunk-VR/releases/download/1.0.0/Cloudpunk_VR.zip](https://github.com/Astienth/Cloudpunk-VR/releases/download/1.0.0/Cloudpunk_VR.zip)</br>
+1) Download the zip file: [https://github.com/Astienth/Circuit_Superstars_VR/releases/download/1.0.0/CircuitSuperstars_VRMod.zip](https://github.com/Astienth/Circuit_Superstars_VR/releases/download/1.0.0/CircuitSuperstars_VRMod.zip)</br>
   
 2) Extract its content into the game root folder, the folder containing the "circuit-superstars.exe"</br>
 3) Launch the game like you usually launch it via steam or the exe file.
