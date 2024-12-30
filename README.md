@@ -1,4 +1,4 @@
-# Circuit_Superstars_VR
+# Circuit_Superstars_VR_bHaptics
 
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1097130/header.jpg">
 <img src="https://github.com/user-attachments/assets/a29e3970-9058-415d-ac45-daf7e0826084">
