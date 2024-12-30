@@ -28,11 +28,9 @@ No motion controller support. You need a gamepad or keyboard/mouse.
 - Hold "Start" button on a gamepad or press F2 on the keyboard to recenter VR view
 
 # <b>Options</b></br>
-In the game root folder in /BepInEx/config. You'll find a txt file called "CircuitSuperstars_VR.cfg".
-You can disable tunelling effect in first person view in this file (tunneling = true or tunneling = false) </br>
-In the game root folder in /BepInEx/config, you'll find a config file named "UnityVR_Bepinex.cfg". 
-In this file search for "Decoupled Pitch = true".
-This forces the virtual horizon to be horizontal, but then you have to physically look down. It can be deactived with "Decoupled Pitch = false"
+- In the game root folder in /BepInEx/config. You'll find a txt file called "CircuitSuperstars_VR.cfg".
+- You can disable tunelling effect in first person view in this file (tunneling = true or tunneling = false) </br>
+- You can enable the game horizontal plane to be as horizontal as the real world by changing "horizonalView = false" to "horizonalView = true"
 
 # <b>Deactivate the VR mod</b></br>
 If you wanna deactivate the VR mod, you just need to rename the file <b>winhttp.dll</b> in the game root folder.</br>
