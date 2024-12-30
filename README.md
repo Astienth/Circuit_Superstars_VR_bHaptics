@@ -7,6 +7,7 @@
 # Description
 
 Adds VR and bHaptics support to Circuit Superstars.</br>
+Only the bHaptics vest is supported.</br>
 
 Steam page of the game: </br>
 [https://store.steampowered.com/app/1097130/Circuit_Superstars/](https://store.steampowered.com/app/1097130/Circuit_Superstars/)</br>
