@@ -6,7 +6,7 @@
 
 # Description
 
-Adds VR support to Circuit Superstars.</br>
+Adds VR and bHaptics support to Circuit Superstars.</br>
 
 Steam page of the game: </br>
 [https://store.steampowered.com/app/1097130/Circuit_Superstars/](https://store.steampowered.com/app/1097130/Circuit_Superstars/)</br>
@@ -18,8 +18,9 @@ Steam page of the game: </br>
 1) Download the zip file: [https://github.com/Astienth/Circuit_Superstars_VR/releases/download/1.0.0/CircuitSuperstars_VRMod.zip](https://github.com/Astienth/Circuit_Superstars_VR/releases/download/1.0.0/CircuitSuperstars_VRMod.zip)</br>
   
 2) Extract its content into the game root folder, the folder containing the "circuit-superstars.exe"</br>
-3) Launch the game like you usually launch it via steam or the exe file.
-4) Enjoy !
+3) Connect your bHaptics vest if you have one.
+4) Launch the game like you usually launch it via steam or the exe file.
+5) Enjoy !
 
 # <b>Controls</b></br>
 No motion controller support. You need a gamepad or keyboard/mouse.
